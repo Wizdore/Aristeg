@@ -1,0 +1,8 @@
+C:\Users\DeadOR\documents\visual studio 2017\Projects\Aristeg\Aristeg\bin\Release\Aristeg.exe.config
+C:\Users\DeadOR\documents\visual studio 2017\Projects\Aristeg\Aristeg\bin\Release\Aristeg.exe
+C:\Users\DeadOR\documents\visual studio 2017\Projects\Aristeg\Aristeg\bin\Release\Aristeg.pdb
+C:\Users\DeadOR\documents\visual studio 2017\Projects\Aristeg\Aristeg\obj\Release\Aristeg.Splash.resources
+C:\Users\DeadOR\documents\visual studio 2017\Projects\Aristeg\Aristeg\obj\Release\Aristeg.Properties.Resources.resources
+C:\Users\DeadOR\documents\visual studio 2017\Projects\Aristeg\Aristeg\obj\Release\Aristeg.csproj.GenerateResource.Cache
+C:\Users\DeadOR\documents\visual studio 2017\Projects\Aristeg\Aristeg\obj\Release\Aristeg.exe
+C:\Users\DeadOR\documents\visual studio 2017\Projects\Aristeg\Aristeg\obj\Release\Aristeg.pdb

@@ -1,0 +1,9 @@
+c:\users\deador\documents\visual studio 2017\Projects\Aristeg\Aristeg\bin\Debug\Aristeg.exe.config
+c:\users\deador\documents\visual studio 2017\Projects\Aristeg\Aristeg\bin\Debug\Aristeg.exe
+c:\users\deador\documents\visual studio 2017\Projects\Aristeg\Aristeg\bin\Debug\Aristeg.pdb
+c:\users\deador\documents\visual studio 2017\Projects\Aristeg\Aristeg\obj\Debug\Aristeg.csprojResolveAssemblyReference.cache
+c:\users\deador\documents\visual studio 2017\Projects\Aristeg\Aristeg\obj\Debug\Aristeg.Properties.Resources.resources
+c:\users\deador\documents\visual studio 2017\Projects\Aristeg\Aristeg\obj\Debug\Aristeg.csproj.GenerateResource.Cache
+c:\users\deador\documents\visual studio 2017\Projects\Aristeg\Aristeg\obj\Debug\Aristeg.exe
+c:\users\deador\documents\visual studio 2017\Projects\Aristeg\Aristeg\obj\Debug\Aristeg.pdb
+c:\users\deador\documents\visual studio 2017\Projects\Aristeg\Aristeg\obj\Debug\Aristeg.Splash.resources
